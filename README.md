@@ -1,2 +1,2 @@
 # sig-kos-kontrakan
-website sederhana sistem informasi geografis rumah kos dan kontrakan
+website sederhana sistem informasi geografis rumah kos dan kontrakan menggunakan php native
